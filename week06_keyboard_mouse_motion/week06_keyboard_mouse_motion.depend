@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1648455889 source:c:\users\administrator\desktop\2022graphics\week06_keyboard_mouse_motion\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1648449149 c:\users\administrator\downloads\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1648449149 c:\users\administrator\downloads\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
